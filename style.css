@@ -1,0 +1,32 @@
+body {
+    background-color: yellow;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: yellow;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: yellow;
+    color: tomato;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : yellow;
+    color: tomato;
+}
